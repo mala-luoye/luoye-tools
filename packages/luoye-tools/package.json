@@ -1,0 +1,28 @@
+{
+  "name": "luoye-tools",
+  "version": "0.0.1-alpha",
+  "description": "一个js工具函数库",
+  "main": "lib/index.cjs.js",
+  "module": "lib/index.esm.js",
+  "jsnext:main": "lib/index.esm.js",
+  "browser": "lib/index.umd.js",
+  "types": "lib/index.d.ts",
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "luoye",
+    "tools",
+    "luoye-tools",
+    "mala-luoye"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mala-luoye/luoye-tools"
+  },
+  "author": "liliang12138",
+  "license": "MIT"
+}

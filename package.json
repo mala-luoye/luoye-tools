@@ -8,7 +8,9 @@
     "test:cover": "jest --coverage",
     "lint-fix:code": "eslint -c .eslintrc.js packages/core --ext .ts,.tsx,.js,.jsx --fix",
     "play": "pnpm --filter play dev",
-    "build": "rollup -c",
+    "code:build": "rollup -c",
+    "docs:dev": "pnpm --filter document start",
+    "docs:build": "pnpm --filter document build",
     "commit": "git add . && cz"
   },
   "config": {

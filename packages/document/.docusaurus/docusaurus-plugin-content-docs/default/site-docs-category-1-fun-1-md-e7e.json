@@ -1,0 +1,26 @@
+{
+  "unversionedId": "category1/fun1",
+  "id": "category1/fun1",
+  "title": "fun1",
+  "description": "方法 1 介绍。",
+  "source": "@site/docs/category1/fun1.md",
+  "sourceDirName": "category1",
+  "slug": "/category1/fun1",
+  "permalink": "/docs/category1/fun1",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "简介",
+    "permalink": "/docs/intro"
+  },
+  "next": {
+    "title": "fun2",
+    "permalink": "/docs/category2/fun2"
+  }
+}

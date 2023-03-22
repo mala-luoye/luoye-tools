@@ -1,0 +1,16 @@
+{
+  "title": "数组",
+  "description": "数组方法",
+  "slug": "/category/数组",
+  "permalink": "/docs/category/数组",
+  "navigation": {
+    "previous": {
+      "title": "简介",
+      "permalink": "/docs/intro"
+    },
+    "next": {
+      "title": "chunk",
+      "permalink": "/docs/array/chunk"
+    }
+  }
+}

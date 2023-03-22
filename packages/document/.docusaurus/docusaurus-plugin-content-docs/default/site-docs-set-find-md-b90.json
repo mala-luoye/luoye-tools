@@ -1,0 +1,22 @@
+{
+  "unversionedId": "set/find",
+  "id": "set/find",
+  "title": "find",
+  "description": "集合方法",
+  "source": "@site/docs/set/find.md",
+  "sourceDirName": "set",
+  "slug": "/set/find",
+  "permalink": "/docs/set/find",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "chunk",
+    "permalink": "/docs/category1/chunk"
+  }
+}

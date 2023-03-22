@@ -1,0 +1,68 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "简介",
+        "href": "/docs/intro",
+        "docId": "intro"
+      },
+      {
+        "type": "category",
+        "label": "分类1",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "fun1",
+            "href": "/docs/category1/fun1",
+            "docId": "category1/fun1"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "分类2",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "fun2",
+            "href": "/docs/category2/fun2",
+            "docId": "category2/fun2"
+          }
+        ]
+      }
+    ]
+  },
+  "docs": {
+    "category1/fun1": {
+      "id": "category1/fun1",
+      "title": "fun1",
+      "description": "方法 1 介绍。",
+      "sidebar": "tutorialSidebar"
+    },
+    "category2/fun2": {
+      "id": "category2/fun2",
+      "title": "fun2",
+      "description": "方法 2 介绍。",
+      "sidebar": "tutorialSidebar"
+    },
+    "intro": {
+      "id": "intro",
+      "title": "简介",
+      "description": "简介信息。",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

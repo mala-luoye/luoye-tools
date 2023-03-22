@@ -1,0 +1,22 @@
+{
+  "unversionedId": "category2/find",
+  "id": "category2/find",
+  "title": "fun2",
+  "description": "方法 2 介绍。",
+  "source": "@site/docs/category2/find.md",
+  "sourceDirName": "category2",
+  "slug": "/category2/find",
+  "permalink": "/docs/category2/find",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "fun1",
+    "permalink": "/docs/category1/fun1"
+  }
+}

@@ -1,28 +1,28 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/docs",
+      "path": "/luoye-tools-docs/docs",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/docs",
+          "path": "/luoye-tools-docs/docs",
           "mainDocId": "intro",
           "docs": [
             {
               "id": "category1/fun1",
-              "path": "/docs/category1/fun1",
+              "path": "/luoye-tools-docs/docs/category1/fun1",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "category2/fun2",
-              "path": "/docs/category2/fun2",
+              "path": "/luoye-tools-docs/docs/category2/fun2",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "intro",
-              "path": "/docs/intro",
+              "path": "/luoye-tools-docs/docs/intro",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -30,7 +30,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docs/intro",
+                "path": "/luoye-tools-docs/docs/intro",
                 "label": "intro"
               }
             }

@@ -9,8 +9,8 @@
           "badge": false,
           "noIndex": false,
           "className": "docs-version-current",
-          "path": "/docs",
-          "tagsPath": "/docs/tags",
+          "path": "/luoye-tools-docs/docs",
+          "tagsPath": "/luoye-tools-docs/docs/tags",
           "isLast": true,
           "routePriority": -1,
           "sidebarFilePath": "D:\\技术特性测试\\mala-luoye\\luoye-tools\\packages\\document\\sidebars.js",
@@ -25,7 +25,7 @@
               "source": "@site/docs/category1/fun1.md",
               "sourceDirName": "category1",
               "slug": "/category1/fun1",
-              "permalink": "/docs/category1/fun1",
+              "permalink": "/luoye-tools-docs/docs/category1/fun1",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -36,11 +36,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "简介",
-                "permalink": "/docs/intro"
+                "permalink": "/luoye-tools-docs/docs/intro"
               },
               "next": {
                 "title": "fun2",
-                "permalink": "/docs/category2/fun2"
+                "permalink": "/luoye-tools-docs/docs/category2/fun2"
               }
             },
             {
@@ -51,7 +51,7 @@
               "source": "@site/docs/category2/fun2.md",
               "sourceDirName": "category2",
               "slug": "/category2/fun2",
-              "permalink": "/docs/category2/fun2",
+              "permalink": "/luoye-tools-docs/docs/category2/fun2",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -62,7 +62,7 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "fun1",
-                "permalink": "/docs/category1/fun1"
+                "permalink": "/luoye-tools-docs/docs/category1/fun1"
               }
             },
             {
@@ -73,7 +73,7 @@
               "source": "@site/docs/intro.md",
               "sourceDirName": ".",
               "slug": "/intro",
-              "permalink": "/docs/intro",
+              "permalink": "/luoye-tools-docs/docs/intro",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -84,7 +84,7 @@
               "sidebar": "tutorialSidebar",
               "next": {
                 "title": "fun1",
-                "permalink": "/docs/category1/fun1"
+                "permalink": "/luoye-tools-docs/docs/category1/fun1"
               }
             }
           ],
@@ -131,7 +131,7 @@
       "blogPosts": [],
       "blogListPaginated": [],
       "blogTags": {},
-      "blogTagsListPath": "/blog/tags",
+      "blogTagsListPath": "/luoye-tools-docs/blog/tags",
       "blogTagsPaginated": []
     }
   },
@@ -139,12 +139,12 @@
     "default": [
       {
         "type": "jsx",
-        "permalink": "/",
+        "permalink": "/luoye-tools-docs/",
         "source": "@site/src/pages/index.js"
       },
       {
         "type": "mdx",
-        "permalink": "/markdown-page",
+        "permalink": "/luoye-tools-docs/markdown-page",
         "source": "@site/src/pages/markdown-page.md",
         "title": "Markdown page example",
         "description": "You don't need React to write simple standalone pages.",

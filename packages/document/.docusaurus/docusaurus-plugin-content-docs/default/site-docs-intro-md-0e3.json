@@ -6,7 +6,7 @@
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
-  "permalink": "/docs/intro",
+  "permalink": "/luoye-tools-docs/docs/intro",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -17,6 +17,6 @@
   "sidebar": "tutorialSidebar",
   "next": {
     "title": "fun1",
-    "permalink": "/docs/category1/fun1"
+    "permalink": "/luoye-tools-docs/docs/category1/fun1"
   }
 }

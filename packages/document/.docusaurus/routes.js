@@ -3,37 +3,37 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/markdown-page',
-    component: ComponentCreator('/markdown-page', 'd51'),
+    path: '/luoye-tools-docs/markdown-page',
+    component: ComponentCreator('/luoye-tools-docs/markdown-page', '95b'),
     exact: true
   },
   {
-    path: '/docs',
-    component: ComponentCreator('/docs', 'd91'),
+    path: '/luoye-tools-docs/docs',
+    component: ComponentCreator('/luoye-tools-docs/docs', 'ae6'),
     routes: [
       {
-        path: '/docs/category1/fun1',
-        component: ComponentCreator('/docs/category1/fun1', '98b'),
+        path: '/luoye-tools-docs/docs/category1/fun1',
+        component: ComponentCreator('/luoye-tools-docs/docs/category1/fun1', 'c27'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/category2/fun2',
-        component: ComponentCreator('/docs/category2/fun2', 'ad0'),
+        path: '/luoye-tools-docs/docs/category2/fun2',
+        component: ComponentCreator('/luoye-tools-docs/docs/category2/fun2', '023'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/intro',
-        component: ComponentCreator('/docs/intro', 'aed'),
+        path: '/luoye-tools-docs/docs/intro',
+        component: ComponentCreator('/luoye-tools-docs/docs/intro', 'f31'),
         exact: true,
         sidebar: "tutorialSidebar"
       }
     ]
   },
   {
-    path: '/',
-    component: ComponentCreator('/', '43c'),
+    path: '/luoye-tools-docs/',
+    component: ComponentCreator('/luoye-tools-docs/', '527'),
     exact: true
   },
   {

@@ -6,7 +6,7 @@
   "source": "@site/docs/category1/fun1.md",
   "sourceDirName": "category1",
   "slug": "/category1/fun1",
-  "permalink": "/docs/category1/fun1",
+  "permalink": "/luoye-tools-docs/docs/category1/fun1",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "简介",
-    "permalink": "/docs/intro"
+    "permalink": "/luoye-tools-docs/docs/intro"
   },
   "next": {
     "title": "fun2",
-    "permalink": "/docs/category2/fun2"
+    "permalink": "/luoye-tools-docs/docs/category2/fun2"
   }
 }

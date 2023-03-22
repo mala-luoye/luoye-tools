@@ -12,7 +12,7 @@
       {
         "type": "link",
         "label": "简介",
-        "href": "/docs/intro",
+        "href": "/luoye-tools-docs/docs/intro",
         "docId": "intro"
       },
       {
@@ -24,7 +24,7 @@
           {
             "type": "link",
             "label": "fun1",
-            "href": "/docs/category1/fun1",
+            "href": "/luoye-tools-docs/docs/category1/fun1",
             "docId": "category1/fun1"
           }
         ]
@@ -38,7 +38,7 @@
           {
             "type": "link",
             "label": "fun2",
-            "href": "/docs/category2/fun2",
+            "href": "/luoye-tools-docs/docs/category2/fun2",
             "docId": "category2/fun2"
           }
         ]

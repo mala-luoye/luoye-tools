@@ -13,5 +13,5 @@
     "strict": true /* 启用严格模式 */
   },
   "include": ["packages/core/main.ts"],
-  "exclude": ["node_modules", "luoye-tools"]
+  "exclude": ["node_modules", "packages/luoye-tools", "packages/document"]
 }

@@ -4,9 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test:cjs": "ts-node ./src/test_cjs/index.ts",
+    "test:esm": "liserve -d ./src/test_esm -p 8115",
+    "test:umd": "liserve -d ./src/test_cjs -p 8116"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "luoye-tools": "workspace:0.0.1-alpha"
+  }
 }

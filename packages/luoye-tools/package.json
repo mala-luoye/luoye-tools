@@ -2,11 +2,11 @@
   "name": "luoye-tools",
   "version": "0.0.1-alpha",
   "description": "一个js工具函数库",
-  "main": "lib/index.cjs.js",
-  "module": "lib/index.esm.js",
-  "jsnext:main": "lib/index.esm.js",
-  "browser": "lib/index.umd.js",
-  "types": "lib/index.d.ts",
+  "main": "lib/luoye-tools.cjs.js",
+  "module": "lib/luoye-tools.esm.js",
+  "jsnext:main": "lib/luoye-tools.esm.js",
+  "browser": "lib/luoye-tools.umd.js",
+  "types": "lib/main.d.ts",
   "files": [
     "lib"
   ],

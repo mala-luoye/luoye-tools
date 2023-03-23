@@ -1,5 +1,5 @@
-import { sub } from "luoye-tools"
+import { mul } from "luoye-tools"
 
-console.log(sub(1, 2))
-console.log(sub(2, 2))
-console.log(sub(3, 2))
+console.log(mul(1, 2))
+console.log(mul(2, 2))
+console.log(mul(3, 2))

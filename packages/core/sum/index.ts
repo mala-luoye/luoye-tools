@@ -1,3 +1,3 @@
-export function sum(...args: number[]): number {
-  return args.reduce((prev, total) => total + prev, 0)
+export const sum = (num1: number, num2: number) => {
+  return num1 + num2
 }

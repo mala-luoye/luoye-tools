@@ -1,4 +1,5 @@
 node_modules
 packages/luoye-tools/lib
 packages/document/build
+packages/document/.docusaurus
 coverage

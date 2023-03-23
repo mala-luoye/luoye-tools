@@ -19,7 +19,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: "mala-luoye", // Usually your GitHub org/user name.
-  projectName: "LUOYE TOOLS", // Usually your repo name.
+  projectName: "mala-luoye.github.io", // Usually your repo name.
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",

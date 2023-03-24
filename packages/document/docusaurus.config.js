@@ -7,7 +7,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula")
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "LUOYE  TOOLS",
-  tagline: "一个TS工具函数库",
+  tagline: "面向前端开发者的工具函数库",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
@@ -74,7 +74,7 @@ const config = {
       },
       footer: {
         style: "dark",
-        copyright: `Copyright © ${new Date().getFullYear()} luoye-tools.`
+        copyright: `Copyright © ${new Date().getFullYear()} mala-luoye.`
       },
       prism: {
         theme: lightCodeTheme,

@@ -38,4 +38,4 @@ if (await copyText("这是一条被复制到剪贴板的文本")) {
 
 ### 未来展望
 
-**luoye tools** 背后是一个年轻且有活力的**[开源团队](https://github.com/mala-luoye)**，我们拥抱且热爱开源，我们追求精益求精。我们坚定信念，且会将长期维护 **luoye tools**。如果你也认为这是一件有意义的事情，也欢迎你加入**[我们的团队](https://github.com/mala-luoye)**。
+**luoye tools** 背后是一个年轻且有活力的**[开源团队](https://github.com/mala-luoye)**，我们拥抱且热爱开源，我们追求精益求精。我们坚定信念，且将会长期维护 **luoye tools**。如果你也认为这是一件有意义的事情，也欢迎你加入**[我们的团队](https://github.com/mala-luoye)**。

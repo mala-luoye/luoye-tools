@@ -8,6 +8,7 @@
   text-align: center;
   position: relative;
   overflow: hidden;
+  /* background: linear-gradient(to right bottom, #ffd650, #ea5753); */
 }
 
 @media screen and (max-width: 996px) {

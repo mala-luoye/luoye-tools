@@ -11,20 +11,20 @@ module.exports = [
         dir: "./packages/luoye-tools/lib",
         format: "cjs",
         entryFileNames: "luoye-tools.cjs.js",
-        sourcemap: false // 是否输出sourcemap
+        sourcemap: true // 是否输出sourcemap
       },
       {
         dir: "./packages/luoye-tools/lib",
         format: "esm",
         entryFileNames: "luoye-tools.esm.js",
-        sourcemap: false // 是否输出sourcemap
+        sourcemap: true // 是否输出sourcemap
       },
       {
         dir: "./packages/luoye-tools/lib",
         format: "umd",
         entryFileNames: "luoye-tools.umd.js",
         name: "luoye", // umd模块名称，相当于一个命名空间，会自动挂载到window下面
-        sourcemap: false,
+        sourcemap: true,
         plugins: [terser()]
       }
     ],

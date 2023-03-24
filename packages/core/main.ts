@@ -1,1 +1,2 @@
-export { copyText } from "./copy_text"
+export { add } from "./add"
+export { copyText } from "./copy-text"

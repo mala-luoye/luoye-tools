@@ -8,7 +8,7 @@
     "test:cover": "jest --coverage",
     "lint-fix:code": "eslint -c .eslintrc.js packages/core --ext .ts,.tsx,.js,.jsx --fix",
     "play": "pnpm --filter play dev",
-    "code:build": "rollup -c",
+    "code:build": "node script/clearLibFolder.js && rollup -c",
     "docs:dev": "pnpm --filter document start",
     "docs:build": "pnpm --filter document build",
     "commit": "git add . && cz"

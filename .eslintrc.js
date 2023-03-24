@@ -20,12 +20,12 @@ module.exports = {
   },
   plugins: ["@typescript-eslint"],
   rules: {
-    eqeqeq: 2,
     "no-alert": 2,
     "no-undef": 2,
     "no-use-before-define": 2,
     "@typescript-eslint/no-explicit-any": 0,
     "@typescript-eslint/no-non-null-assertion": 0,
-    "@typescript-eslint/no-var-requires": 0
+    "@typescript-eslint/no-var-requires": 0,
+    "@typescript-eslint/no-extra-semi": 0
   }
 }

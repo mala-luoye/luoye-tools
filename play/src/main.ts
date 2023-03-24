@@ -1,5 +1,7 @@
-import { mul } from "luoye-tools"
+import { copyText } from "luoye-tools"
 
-console.log(mul(1, 2))
-console.log(mul(2, 2))
-console.log(mul(3, 2))
+document.querySelector(".copy-btn")?.addEventListener("click", async () => {
+  ;(await copyText("测试一下"))
+    ? console.log("复制成功")
+    : console.log("复制失败")
+})

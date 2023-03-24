@@ -1,4 +1,4 @@
-type CopyTextType = (test: string) => Promise<boolean>
+type CopyTextType = (text: string) => Promise<boolean>
 /**
  * 复制文本到剪贴板
  * @param text

@@ -1,2 +1,3 @@
 export { add } from "./add"
-export { copyText } from "./copy-text"
+export { copyText } from "./copyText"
+export { uid } from "./uid"

@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-`type addType = (num1: number, num2: number) => number`
+`type AddType = (num1: number, num2: number) => number`
 
 两数相加。
 

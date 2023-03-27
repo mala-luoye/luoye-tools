@@ -12,6 +12,6 @@
     "vite": "^4.2.0"
   },
   "dependencies": {
-    "luoye-tools": "workspace:0.0.1-alpha"
+    "luoye-tools": "workspace:*"
   }
 }

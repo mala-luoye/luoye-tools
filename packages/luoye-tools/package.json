@@ -1,6 +1,6 @@
 {
   "name": "luoye-tools",
-  "version": "0.0.2-alpha",
+  "version": "0.0.3-alpha",
   "description": "一个js工具函数库",
   "main": "lib/luoye-tools.cjs.js",
   "module": "lib/luoye-tools.esm.js",

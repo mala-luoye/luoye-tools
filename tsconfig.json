@@ -10,7 +10,8 @@
     "sourceMap": true /* 自动生成sourcemap文件 */,
     "outDir": "./packages/luoye-tools/lib" /* 编译输出目录 */,
     "rootDir": "./packages/core" /* 项目源码根目录，用来控制编译输出的目录结构 */,
-    "strict": true /* 启用严格模式 */
+    "strict": true /* 启用严格模式 */,
+    "noEmit": true
   },
   "include": ["packages/core/main.ts"],
   "exclude": ["node_modules", "packages/luoye-tools", "packages/document"]
